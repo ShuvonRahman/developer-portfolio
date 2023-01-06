@@ -39,6 +39,20 @@ font-size: 15px;
 
 
 }
+.btn-primary2{
+     
+    border: 0;
+    color: orange;
+    background-color: white;
+    height: 64px;
+    padding: 10px 40px;
+    font-weight: 760;
+font-size: 15px;
+border-radius: 5px;
+    width: 150px;
+    
+    
+}
 .banner{
     margin: 0;
     display: flex;
